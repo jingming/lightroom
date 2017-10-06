@@ -1,0 +1,24 @@
+s = {
+	id = "110DE77A-D0F9-465F-92A9-016E1CF5A07A",
+	internalName = "Vivid",
+	title = "Vivid",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -10,
+			Clarity2012 = 20,
+			Contrast2012 = 20,
+			ConvertToGrayscale = false,
+			Dehaze = 20,
+			EnableEffects = true,
+			Highlights2012 = -10,
+			ProcessVersion = "6.7",
+			Saturation = 10,
+			Shadows2012 = 25,
+			Vibrance = 40,
+			Whites2012 = 10,
+		},
+		uuid = "321FA02C-C7C6-47DD-8F5D-F79B377385C9",
+	},
+	version = 0,
+}

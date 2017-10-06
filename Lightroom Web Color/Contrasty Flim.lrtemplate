@@ -1,0 +1,25 @@
+s = {
+	id = "E08F501C-B1FC-4073-8A74-C20BACCE9254",
+	internalName = "Contrasty Flim",
+	title = "Contrasty Flim",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -40,
+			Clarity2012 = 0,
+			Contrast2012 = 70,
+			ConvertToGrayscale = false,
+			Dehaze = 0,
+			EnableEffects = true,
+			Exposure2012 = 0,
+			Highlights2012 = 10,
+			ProcessVersion = "6.7",
+			Saturation = 15,
+			Shadows2012 = 10,
+			Vibrance = 0,
+			Whites2012 = 25,
+		},
+		uuid = "A2500D7D-35FA-4D04-B9EA-5F5DA797BBF5",
+	},
+	version = 0,
+}

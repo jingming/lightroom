@@ -1,0 +1,25 @@
+s = {
+	id = "C1A34428-7E4F-434D-A2EB-92684B1BF601",
+	internalName = "Punch Plus",
+	title = "Punch Plus",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -45,
+			Clarity2012 = 50,
+			Contrast2012 = 40,
+			ConvertToGrayscale = false,
+			Dehaze = 0,
+			EnableEffects = true,
+			Exposure2012 = 0,
+			Highlights2012 = -30,
+			ProcessVersion = "6.7",
+			Saturation = 0,
+			Shadows2012 = 45,
+			Vibrance = 20,
+			Whites2012 = 60,
+		},
+		uuid = "0738B4C0-C722-4933-866E-BF60F826375C",
+	},
+	version = 0,
+}

@@ -1,0 +1,21 @@
+s = {
+	id = "A1DAF7D7-BB63-4F3E-8119-C1CCC2098E1D",
+	internalName = "Natural",
+	title = "Natural",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -20,
+			Clarity2012 = 0,
+			Contrast2012 = 10,
+			ConvertToGrayscale = false,
+			Highlights2012 = -10,
+			ProcessVersion = "6.7",
+			Shadows2012 = 15,
+			Vibrance = 10,
+			Whites2012 = -10,
+		},
+		uuid = "199A502D-AEC9-4B0C-A6A4-BF485F11DE99",
+	},
+	version = 0,
+}

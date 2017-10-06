@@ -1,0 +1,25 @@
+s = {
+	id = "E4027CB8-0911-4D0C-A0C5-F187BF254A4E",
+	internalName = "Soft",
+	title = "Soft",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 30,
+			Clarity2012 = -30,
+			Contrast2012 = -30,
+			ConvertToGrayscale = false,
+			Dehaze = -5,
+			EnableEffects = true,
+			Exposure2012 = 0.4,
+			Highlights2012 = -40,
+			ProcessVersion = "6.7",
+			Saturation = -5,
+			Shadows2012 = 55,
+			Vibrance = 10,
+			Whites2012 = -25,
+		},
+		uuid = "9C121697-0B14-45BB-A261-1CF7355B4948",
+	},
+	version = 0,
+}
